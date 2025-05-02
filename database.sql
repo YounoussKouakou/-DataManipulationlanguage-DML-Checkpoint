@@ -9,7 +9,7 @@ VALUES('P02', 'ASUS Notebook', 'PC', 4599);
 
 --  Customer table
 INSERT INTO Customer(Customer_Id, customer_Name, Customer_Tel)
-VALUES('C01', 'ASSANE', 71321009);
+VALUES('C01', 'ALI', 71321009);
 
 INSERT INTO Customer(Customer_Id, customer_Name, Customer_Tel)
 VALUES('C02', 'ASMA', 77345823);
